@@ -1,0 +1,355 @@
+[
+  {
+    "id": "p001",
+    "category": "present",
+    "en": "I speak Spanish.",
+    "es": "Yo hablo español.",
+    "note": "Hablar → hablo with yo. You can also say Hablo español; the verb identifies the subject."
+  },
+  {
+    "id": "p002",
+    "category": "present",
+    "en": "You speak very clearly. (one person)",
+    "es": "Tú hablas muy claro.",
+    "note": "Tú is informal singular you. Hablas is present tense; muy claro means very clearly. Use usted habla for formal address.",
+    "revision": 2
+  },
+  {
+    "id": "p003",
+    "category": "present",
+    "en": "He works here.",
+    "es": "Él trabaja aquí.",
+    "note": "Regular -ar verbs use -a with él or ella. Él means he; el without an accent means the."
+  },
+  {
+    "id": "p004",
+    "category": "present",
+    "en": "She studies at night.",
+    "es": "Ella estudia por la noche.",
+    "note": "Ella takes estudia. Por la noche means at night."
+  },
+  {
+    "id": "p005",
+    "category": "present",
+    "en": "We live nearby.",
+    "es": "Nosotros vivimos cerca.",
+    "note": "Vivir → vivimos with nosotros or nosotras. The subject pronoun is often omitted."
+  },
+  {
+    "id": "p006",
+    "category": "present",
+    "en": "They eat together.",
+    "es": "Ellos comen juntos.",
+    "note": "Comer → comen with ellos. For an all-female group, use ellas comen juntas."
+  },
+  {
+    "id": "p007",
+    "category": "present",
+    "en": "You arrive early. (plural)",
+    "es": "Ustedes llegan temprano.",
+    "note": "In Latin America, ustedes is the usual plural you and takes the same verb form as ellos."
+  },
+  {
+    "id": "p008",
+    "category": "present",
+    "en": "Could you help me for a moment, please?",
+    "es": "¿Me ayuda un momento, por favor?",
+    "note": "Ayuda is the present usted form of ayudar. A question plus por favor makes a courteous request.",
+    "revision": 2
+  },
+  {
+    "id": "p009",
+    "category": "present",
+    "en": "I don't understand the question.",
+    "es": "No entiendo la pregunta.",
+    "note": "Entender changes e → ie in entiendo. Put no before the verb to make it negative."
+  },
+  {
+    "id": "p010",
+    "category": "present",
+    "en": "Do you want water? (one person)",
+    "es": "¿Quieres agua?",
+    "note": "Querer changes e → ie in quieres. A question can keep the same word order as a statement."
+  },
+  {
+    "id": "p011",
+    "category": "present",
+    "en": "I have to leave.",
+    "es": "Tengo que salir.",
+    "note": "Tener que + infinitive expresses an obligation: tengo que salir = I have to leave."
+  },
+  {
+    "id": "p012",
+    "category": "present",
+    "en": "We can wait.",
+    "es": "Podemos esperar.",
+    "note": "Poder is followed by an infinitive. The nosotros form podemos keeps o, unlike puedo."
+  },
+  {
+    "id": "p013",
+    "category": "present",
+    "en": "She knows the answer.",
+    "es": "Ella sabe la respuesta.",
+    "note": "Use saber for knowing a fact or an answer."
+  },
+  {
+    "id": "p014",
+    "category": "present",
+    "en": "I know your brother. (one person's)",
+    "es": "Conozco a tu hermano.",
+    "note": "Use conocer for knowing a person. The personal a comes before tu hermano."
+  },
+  {
+    "id": "p015",
+    "category": "present",
+    "en": "I'm at home.",
+    "es": "Estoy en casa.",
+    "note": "Use estar for someone's location. Estoy is its yo form."
+  },
+  {
+    "id": "p016",
+    "category": "present",
+    "en": "He is from Mexico.",
+    "es": "Él es de México.",
+    "note": "Use ser de to state where someone is from."
+  },
+  {
+    "id": "p017",
+    "category": "present",
+    "en": "We're hungry.",
+    "es": "Tenemos hambre.",
+    "note": "Spanish uses tener hambre, literally to have hunger. Tener → tenemos with we."
+  },
+  {
+    "id": "p018",
+    "category": "present",
+    "en": "Are you cold? (one person)",
+    "es": "¿Tienes frío?",
+    "note": "Use tener frío to describe feeling cold. Tienes addresses one person informally."
+  },
+  {
+    "id": "p019",
+    "category": "present",
+    "en": "It's hot today.",
+    "es": "Hoy hace calor.",
+    "note": "Hace calor describes hot weather. Hoy can go at the beginning or the end."
+  },
+  {
+    "id": "p020",
+    "category": "present",
+    "en": "There's a store nearby.",
+    "es": "Hay una tienda cerca.",
+    "note": "Hay means there is or there are; it stays the same with one thing or several."
+  },
+  {
+    "id": "p021",
+    "category": "present",
+    "en": "I like this song.",
+    "es": "Me gusta esta canción.",
+    "note": "With gustar, the song is the grammatical subject: me gusta + one thing."
+  },
+  {
+    "id": "p022",
+    "category": "present",
+    "en": "We like these shoes.",
+    "es": "Nos gustan estos zapatos.",
+    "note": "Use gustan with plural things. Nos identifies us as the people who like them."
+  },
+  {
+    "id": "p023",
+    "category": "present",
+    "en": "I get up at seven.",
+    "es": "Me levanto a las siete.",
+    "note": "Levantarse uses a reflexive pronoun: me levanto for I get up."
+  },
+  {
+    "id": "p024",
+    "category": "present",
+    "en": "She goes to bed late.",
+    "es": "Ella se acuesta tarde.",
+    "note": "Acostarse changes o → ue in se acuesta. Se goes before the conjugated verb."
+  },
+  {
+    "id": "p025",
+    "category": "present",
+    "en": "We have breakfast together.",
+    "es": "Desayunamos juntos.",
+    "note": "Desayunar means to have breakfast. Desayunamos is the nosotros form."
+  },
+  {
+    "id": "p026",
+    "category": "present",
+    "en": "He drinks coffee every morning.",
+    "es": "Él toma café cada mañana.",
+    "note": "The present tense can describe a routine. Cada mañana means every morning."
+  },
+  {
+    "id": "p027",
+    "category": "present",
+    "en": "I go to work by bus.",
+    "es": "Voy al trabajo en autobús.",
+    "note": "Ir → voy with yo. A + el contracts to al; en autobús means by bus."
+  },
+  {
+    "id": "p028",
+    "category": "present",
+    "en": "You come with me. (plural)",
+    "es": "Ustedes vienen conmigo.",
+    "note": "Venir → vienen with ustedes. Conmigo means with me."
+  },
+  {
+    "id": "p029",
+    "category": "present",
+    "en": "I hear a noise.",
+    "es": "Oigo un ruido.",
+    "note": "Oír has the irregular yo form oigo."
+  },
+  {
+    "id": "p030",
+    "category": "present",
+    "en": "Do you see that house? (one person)",
+    "es": "¿Ves esa casa?",
+    "note": "Ver → ves with tú. Esa points to that feminine singular thing."
+  },
+  {
+    "id": "p031",
+    "category": "present",
+    "en": "I put the keys here.",
+    "es": "Pongo las llaves aquí.",
+    "note": "Poner has the irregular yo form pongo. Las llaves means the keys."
+  },
+  {
+    "id": "p032",
+    "category": "present",
+    "en": "He always tells the truth.",
+    "es": "Él siempre dice la verdad.",
+    "note": "Decir → dice with él. Siempre commonly goes before the verb."
+  },
+  {
+    "id": "p033",
+    "category": "present",
+    "en": "We do the shopping on Saturdays.",
+    "es": "Hacemos las compras los sábados.",
+    "note": "Hacer las compras means to do the shopping. Los sábados expresses a recurring Saturday routine."
+  },
+  {
+    "id": "p034",
+    "category": "present",
+    "en": "She brings her lunch.",
+    "es": "Ella trae su almuerzo.",
+    "note": "Traer → trae with ella. Su can mean her, his, their, or your; context identifies the owner."
+  },
+  {
+    "id": "p035",
+    "category": "present",
+    "en": "I ask for the bill.",
+    "es": "Pido la cuenta.",
+    "note": "Pedir changes e → i in pido. La cuenta is the bill at a restaurant."
+  },
+  {
+    "id": "p036",
+    "category": "present",
+    "en": "They sleep well.",
+    "es": "Ellos duermen bien.",
+    "note": "Dormir changes o → ue in duermen. Bien describes how they sleep."
+  },
+  {
+    "id": "p037",
+    "category": "present",
+    "en": "I prefer to walk.",
+    "es": "Prefiero caminar.",
+    "note": "Preferir changes e → ie in prefiero and can be followed by an infinitive."
+  },
+  {
+    "id": "p038",
+    "category": "present",
+    "en": "You think the same thing. (plural)",
+    "es": "Ustedes piensan lo mismo.",
+    "note": "Pensar changes e → ie in piensan. Lo mismo means the same thing."
+  },
+  {
+    "id": "p039",
+    "category": "present",
+    "en": "The movie starts at eight.",
+    "es": "La película empieza a las ocho.",
+    "note": "Empezar changes e → ie in empieza. Use a las before most clock times."
+  },
+  {
+    "id": "p040",
+    "category": "present",
+    "en": "I return home early.",
+    "es": "Vuelvo a casa temprano.",
+    "note": "Volver changes o → ue in vuelvo. A casa expresses movement toward home."
+  },
+  {
+    "id": "p041",
+    "category": "present",
+    "en": "We're learning Spanish.",
+    "es": "Estamos aprendiendo español.",
+    "note": "Estar + gerund describes an action in progress. Aprender → aprendiendo."
+  },
+  {
+    "id": "p042",
+    "category": "present",
+    "en": "I'm looking for my phone.",
+    "es": "Estoy buscando mi teléfono.",
+    "note": "Buscar → buscando after estar. Buscar already means look for; no extra por is needed here."
+  },
+  {
+    "id": "p043",
+    "category": "present",
+    "en": "She's reading a message.",
+    "es": "Ella está leyendo un mensaje.",
+    "note": "Leer has the gerund leyendo. Ella está identifies the subject clearly."
+  },
+  {
+    "id": "p044",
+    "category": "present",
+    "en": "What are you doing? (one person)",
+    "es": "¿Qué estás haciendo?",
+    "note": "Hacer → haciendo. Estás addresses tú, and qué introduces the question what."
+  },
+  {
+    "id": "p045",
+    "category": "present",
+    "en": "I'm sorry, I don't have time right now.",
+    "es": "Lo siento, no tengo tiempo ahora.",
+    "note": "Lo siento politely softens the response. Tengo is the yo present form of tener.",
+    "revision": 2
+  },
+  {
+    "id": "p046",
+    "category": "present",
+    "en": "Where do you live? (plural)",
+    "es": "¿Dónde viven ustedes?",
+    "note": "The subject can follow the verb in a question. Ustedes makes plural you explicit."
+  },
+  {
+    "id": "p047",
+    "category": "present",
+    "en": "How much does it cost?",
+    "es": "¿Cuánto cuesta?",
+    "note": "Costar changes o → ue in cuesta. Use cuestan when asking about several things."
+  },
+  {
+    "id": "p048",
+    "category": "present",
+    "en": "I'm twenty years old.",
+    "es": "Tengo veinte años.",
+    "note": "Spanish expresses age with tener + number + años, not with ser."
+  },
+  {
+    "id": "p049",
+    "category": "present",
+    "en": "My head hurts.",
+    "es": "Me duele la cabeza.",
+    "note": "With doler, the body part is the subject. One head takes duele; me identifies whose pain it is."
+  },
+  {
+    "id": "p050",
+    "category": "present",
+    "en": "Everything is fine.",
+    "es": "Todo está bien.",
+    "note": "Estar bien describes how things are. Todo takes the singular verb está."
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "f001",
+    "category": "future",
+    "en": "I'm going to study tonight.",
+    "es": "Voy a estudiar esta noche.",
+    "note": "Future plan: conjugate ir + a + infinitive. Voy a estudiar uses the yo form voy."
+  },
+  {
+    "id": "f002",
+    "category": "future",
+    "en": "You're going to learn a lot. (one person)",
+    "es": "Tú vas a aprender mucho.",
+    "note": "Tú takes vas in ir a + infinitive. The second verb stays aprender."
+  },
+  {
+    "id": "f003",
+    "category": "future",
+    "en": "He's going to call tomorrow.",
+    "es": "Él va a llamar mañana.",
+    "note": "Él takes va. Keep the a between va and llamar."
+  },
+  {
+    "id": "f004",
+    "category": "future",
+    "en": "She's going to arrive soon.",
+    "es": "Ella va a llegar pronto.",
+    "note": "Ella takes va, just like él. Pronto means soon."
+  },
+  {
+    "id": "f005",
+    "category": "future",
+    "en": "We're going to eat at home.",
+    "es": "Nosotros vamos a comer en casa.",
+    "note": "Nosotros takes vamos. Vamos a comer expresses a future plan in this sentence."
+  },
+  {
+    "id": "f006",
+    "category": "future",
+    "en": "They're going to travel next month.",
+    "es": "Ellos van a viajar el próximo mes.",
+    "note": "Ellos takes van. El próximo mes means next month."
+  },
+  {
+    "id": "f007",
+    "category": "future",
+    "en": "You're going to like this place. (plural)",
+    "es": "A ustedes les va a gustar este lugar.",
+    "note": "Este lugar is the singular subject of gustar, so use va. Les identifies the people who will like it."
+  },
+  {
+    "id": "f008",
+    "category": "future",
+    "en": "I'm going to buy bread.",
+    "es": "Voy a comprar pan.",
+    "note": "Only ir changes for the subject in this future pattern; comprar remains an infinitive."
+  },
+  {
+    "id": "f009",
+    "category": "future",
+    "en": "I'm not going to work tomorrow.",
+    "es": "No voy a trabajar mañana.",
+    "note": "Put no before voy to make the whole future plan negative."
+  },
+  {
+    "id": "f010",
+    "category": "future",
+    "en": "Are you going to come with me? (one person)",
+    "es": "¿Vas a venir conmigo?",
+    "note": "The future question uses vas a + infinitive. Conmigo means with me."
+  },
+  {
+    "id": "f011",
+    "category": "future",
+    "en": "What are we going to do?",
+    "es": "¿Qué vamos a hacer?",
+    "note": "Qué introduces what. Vamos identifies we, so nosotros is unnecessary."
+  },
+  {
+    "id": "f012",
+    "category": "future",
+    "en": "Where are you going to stay? (plural)",
+    "es": "¿Dónde se van a quedar ustedes?",
+    "note": "Quedarse uses se with ustedes. Se van a quedar and van a quedarse are both valid."
+  },
+  {
+    "id": "f013",
+    "category": "future",
+    "en": "I'm going to rest for a while.",
+    "es": "Voy a descansar un rato.",
+    "note": "Un rato means a while. Voy a + infinitive is common for everyday plans."
+  },
+  {
+    "id": "f014",
+    "category": "future",
+    "en": "She's going to make dinner.",
+    "es": "Ella va a preparar la cena.",
+    "note": "Preparar la cena means to make or prepare dinner. Va a gives it a future meaning."
+  },
+  {
+    "id": "f015",
+    "category": "future",
+    "en": "We're going to leave early.",
+    "es": "Vamos a salir temprano.",
+    "note": "Salir stays in the infinitive after vamos a. Temprano means early."
+  },
+  {
+    "id": "f016",
+    "category": "future",
+    "en": "I'm going to take a shower.",
+    "es": "Me voy a duchar.",
+    "note": "With ducharse, me can go before voy or attach to the infinitive: voy a ducharme."
+  },
+  {
+    "id": "f017",
+    "category": "future",
+    "en": "He's going to get up at six.",
+    "es": "Él se va a levantar a las seis.",
+    "note": "Levantarse uses se with él. A las seis gives the time he plans to get up."
+  },
+  {
+    "id": "f018",
+    "category": "future",
+    "en": "We're going to see a movie.",
+    "es": "Vamos a ver una película.",
+    "note": "Ver means to see or watch. Keep the a in vamos a ver."
+  },
+  {
+    "id": "f019",
+    "category": "future",
+    "en": "I'm going to send a message.",
+    "es": "Voy a mandar un mensaje.",
+    "note": "Mandar un mensaje means to send a message. Voy a places it in the future."
+  },
+  {
+    "id": "f020",
+    "category": "future",
+    "en": "You're going to need help. (one person)",
+    "es": "Vas a necesitar ayuda.",
+    "note": "Vas addresses one person informally. Necesitar stays in the infinitive."
+  },
+  {
+    "id": "f021",
+    "category": "future",
+    "en": "They're going to move next year.",
+    "es": "Ellos se van a mudar el próximo año.",
+    "note": "Mudarse means to move home. Se goes before van, or attaches in van a mudarse."
+  },
+  {
+    "id": "f022",
+    "category": "future",
+    "en": "I'm going to look for a job.",
+    "es": "Voy a buscar trabajo.",
+    "note": "Buscar trabajo means to look for a job. No extra word for for is needed after buscar."
+  },
+  {
+    "id": "f023",
+    "category": "future",
+    "en": "We're going to visit my parents.",
+    "es": "Vamos a visitar a mis padres.",
+    "note": "Keep both a's: vamos a introduces the future; a mis padres marks specific people."
+  },
+  {
+    "id": "f024",
+    "category": "future",
+    "en": "She's going to bring dessert.",
+    "es": "Ella va a traer el postre.",
+    "note": "Traer stays in the infinitive after va a. El postre means dessert."
+  },
+  {
+    "id": "f025",
+    "category": "future",
+    "en": "It's going to rain this afternoon.",
+    "es": "Va a llover esta tarde.",
+    "note": "Llover is a weather verb, so there is no personal subject. Use va a llover."
+  },
+  {
+    "id": "f026",
+    "category": "future",
+    "en": "There's going to be a party.",
+    "es": "Va a haber una fiesta.",
+    "note": "The future of hay can be va a haber. Keep the a between va and haber."
+  },
+  {
+    "id": "f027",
+    "category": "future",
+    "en": "I'm going to be late.",
+    "es": "Voy a llegar tarde.",
+    "note": "Llegar tarde literally means to arrive late and is a natural way to say be late."
+  },
+  {
+    "id": "f028",
+    "category": "future",
+    "en": "You're going to have time to eat. (plural)",
+    "es": "Ustedes van a tener tiempo para comer.",
+    "note": "Ustedes takes van. Para comer explains what the time is for."
+  },
+  {
+    "id": "f029",
+    "category": "future",
+    "en": "We're going to talk after lunch.",
+    "es": "Vamos a hablar después del almuerzo.",
+    "note": "Después de means after. De + el contracts to del."
+  },
+  {
+    "id": "f030",
+    "category": "future",
+    "en": "I'm going to try again.",
+    "es": "Voy a intentar otra vez.",
+    "note": "Otra vez means again. Intentar stays unchanged after voy a."
+  },
+  {
+    "id": "f031",
+    "category": "future",
+    "en": "Are you going to pay by card? (one person)",
+    "es": "¿Vas a pagar con tarjeta?",
+    "note": "Con tarjeta means by card. Vas identifies informal singular you."
+  },
+  {
+    "id": "f032",
+    "category": "future",
+    "en": "He isn't going to be able to come.",
+    "es": "Él no va a poder venir.",
+    "note": "Va a gives the future; poder adds ability; venir stays in the infinitive after poder."
+  },
+  {
+    "id": "f033",
+    "category": "future",
+    "en": "We're going to have to wait.",
+    "es": "Vamos a tener que esperar.",
+    "note": "Combine future vamos a with obligation tener que, then the action esperar."
+  },
+  {
+    "id": "f034",
+    "category": "future",
+    "en": "I'm going to tell her the truth.",
+    "es": "Le voy a decir la verdad a ella.",
+    "note": "Le is the recipient. A ella makes her explicit; le can also attach in voy a decirle."
+  },
+  {
+    "id": "f035",
+    "category": "future",
+    "en": "They're going to get married in June.",
+    "es": "Ellos se van a casar en junio.",
+    "note": "Casarse means to get married. Use en before a month."
+  },
+  {
+    "id": "f036",
+    "category": "future",
+    "en": "I'll call you later. (one person)",
+    "es": "Te llamaré más tarde.",
+    "note": "Simple future: add -é to the infinitive llamar for yo. Te identifies the person I will call."
+  },
+  {
+    "id": "f037",
+    "category": "future",
+    "en": "You'll understand later. (one person)",
+    "es": "Tú entenderás después.",
+    "note": "Simple future: infinitive entender + -ás with tú. It keeps e here, unlike present entiendes."
+  },
+  {
+    "id": "f038",
+    "category": "future",
+    "en": "She'll be here at five.",
+    "es": "Ella estará aquí a las cinco.",
+    "note": "Simple future: estar + -á with ella. Estar describes her location."
+  },
+  {
+    "id": "f039",
+    "category": "future",
+    "en": "We'll talk tomorrow.",
+    "es": "Hablaremos mañana.",
+    "note": "Simple future: hablar + -emos with nosotros. Hablaremos already identifies we."
+  },
+  {
+    "id": "f040",
+    "category": "future",
+    "en": "They'll arrive on Monday.",
+    "es": "Ellos llegarán el lunes.",
+    "note": "Simple future: llegar + -án with ellos. El lunes gives the day."
+  },
+  {
+    "id": "f041",
+    "category": "future",
+    "en": "You'll receive a message. (plural)",
+    "es": "Ustedes recibirán un mensaje.",
+    "note": "The simple future uses -án with ustedes, just as with ellos."
+  },
+  {
+    "id": "f042",
+    "category": "future",
+    "en": "I'll be back soon.",
+    "es": "Volveré pronto.",
+    "note": "Volver keeps its full infinitive in the future: volver + -é. It does not change to ue here."
+  },
+  {
+    "id": "f043",
+    "category": "future",
+    "en": "I'll do it tomorrow.",
+    "es": "Lo haré mañana.",
+    "note": "Hacer has the irregular future stem har-. Lo stands for the thing I will do."
+  },
+  {
+    "id": "f044",
+    "category": "future",
+    "en": "We'll have more time next week.",
+    "es": "Tendremos más tiempo la próxima semana.",
+    "note": "Tener uses the irregular future stem tendr-, then -emos for we."
+  },
+  {
+    "id": "f045",
+    "category": "future",
+    "en": "I'll be able to help tomorrow.",
+    "es": "Podré ayudar mañana.",
+    "note": "Poder uses the irregular future stem podr-. Follow it with the infinitive ayudar."
+  },
+  {
+    "id": "f046",
+    "category": "future",
+    "en": "He'll tell us what happened.",
+    "es": "Él nos dirá qué pasó.",
+    "note": "Decir uses the irregular future stem dir-. Nos means to us; qué pasó means what happened."
+  },
+  {
+    "id": "f047",
+    "category": "future",
+    "en": "We'll know more tomorrow.",
+    "es": "Sabremos más mañana.",
+    "note": "Saber uses the irregular future stem sabr-. Sabremos means we will know."
+  },
+  {
+    "id": "f048",
+    "category": "future",
+    "en": "Everything will be fine.",
+    "es": "Todo estará bien.",
+    "note": "Estará is the simple future of estar for a singular subject. Todo means everything."
+  },
+  {
+    "id": "f049",
+    "category": "future",
+    "en": "There will be more opportunities.",
+    "es": "Habrá más oportunidades.",
+    "note": "Impersonal haber stays singular: habrá, even with plural oportunidades."
+  },
+  {
+    "id": "f050",
+    "category": "future",
+    "en": "I'll go with you. (one person)",
+    "es": "Iré contigo.",
+    "note": "Ir forms its simple future by adding -é: iré. Contigo means with you, addressing tú."
+  }
+]

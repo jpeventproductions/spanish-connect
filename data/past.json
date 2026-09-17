@@ -1,0 +1,352 @@
+[
+  {
+    "id": "t001",
+    "category": "past",
+    "en": "I spoke with my mom yesterday.",
+    "es": "Ayer hablé con mi mamá.",
+    "note": "Completed past: hablar → hablé with yo. Ayer sets the event yesterday."
+  },
+  {
+    "id": "t002",
+    "category": "past",
+    "en": "You arrived late yesterday. (one person)",
+    "es": "Ayer tú llegaste tarde.",
+    "note": "Completed past: llegar → llegaste with tú. The regular tú ending is -aste."
+  },
+  {
+    "id": "t003",
+    "category": "past",
+    "en": "He bought bread this morning.",
+    "es": "Él compró pan esta mañana.",
+    "note": "Completed past: comprar → compró with él. The accent distinguishes compró from compro."
+  },
+  {
+    "id": "t004",
+    "category": "past",
+    "en": "She called me last night.",
+    "es": "Ella me llamó anoche.",
+    "note": "Llamó is a completed past action. Me, the person called, goes before the verb."
+  },
+  {
+    "id": "t005",
+    "category": "past",
+    "en": "We worked yesterday.",
+    "es": "Nosotros trabajamos ayer.",
+    "note": "Trabajamos can be present or completed past. Ayer makes the past meaning clear."
+  },
+  {
+    "id": "t006",
+    "category": "past",
+    "en": "They ate at home yesterday.",
+    "es": "Ellos comieron en casa ayer.",
+    "note": "Completed past: comer → comieron with ellos. Regular -er and -ir verbs share -ieron here."
+  },
+  {
+    "id": "t007",
+    "category": "past",
+    "en": "You left early yesterday. (plural)",
+    "es": "Ustedes salieron temprano ayer.",
+    "note": "Completed past: salir → salieron with ustedes, the plural you."
+  },
+  {
+    "id": "t008",
+    "category": "past",
+    "en": "I finished my homework.",
+    "es": "Terminé mi tarea.",
+    "note": "Terminé presents finishing as a completed event. The -é ending identifies yo."
+  },
+  {
+    "id": "t009",
+    "category": "past",
+    "en": "I didn't understand the message.",
+    "es": "No entendí el mensaje.",
+    "note": "Entender → entendí in the completed past. It does not use the present-tense ie here."
+  },
+  {
+    "id": "t010",
+    "category": "past",
+    "en": "Did you sleep well? (one person)",
+    "es": "¿Dormiste bien?",
+    "note": "Dormir → dormiste with tú in the completed past. No explicit tú is needed."
+  },
+  {
+    "id": "t011",
+    "category": "past",
+    "en": "I went to the store.",
+    "es": "Fui a la tienda.",
+    "note": "Fui is the yo completed-past form of ir. It also belongs to ser; context tells you which verb."
+  },
+  {
+    "id": "t012",
+    "category": "past",
+    "en": "We went to the movies on Saturday.",
+    "es": "Fuimos al cine el sábado.",
+    "note": "Ir → fuimos with nosotros. El sábado refers to a particular Saturday here."
+  },
+  {
+    "id": "t013",
+    "category": "past",
+    "en": "She was here yesterday.",
+    "es": "Ella estuvo aquí ayer.",
+    "note": "Estuvo presents her stay here as a bounded past event. Estar describes location."
+  },
+  {
+    "id": "t014",
+    "category": "past",
+    "en": "I had a problem yesterday.",
+    "es": "Tuve un problema ayer.",
+    "note": "Tener has the irregular completed-past stem tuv-: tuve with yo."
+  },
+  {
+    "id": "t015",
+    "category": "past",
+    "en": "He made dinner last night.",
+    "es": "Él hizo la cena anoche.",
+    "note": "Hacer → hizo with él in the completed past. Notice the z in hizo."
+  },
+  {
+    "id": "t016",
+    "category": "past",
+    "en": "We saw your sister. (one person's)",
+    "es": "Vimos a tu hermana.",
+    "note": "Ver → vimos. Use the personal a before a specific person: a tu hermana."
+  },
+  {
+    "id": "t017",
+    "category": "past",
+    "en": "I gave him the keys.",
+    "es": "Le di las llaves a él.",
+    "note": "Dar → di. Le marks the recipient, and a él makes him explicit."
+  },
+  {
+    "id": "t018",
+    "category": "past",
+    "en": "They told me the truth.",
+    "es": "Ellos me dijeron la verdad.",
+    "note": "Decir has the irregular form dijeron with ellos. It ends in -eron, not -ieron."
+  },
+  {
+    "id": "t019",
+    "category": "past",
+    "en": "I put the bag on the table.",
+    "es": "Puse la bolsa en la mesa.",
+    "note": "Poner has the irregular completed-past stem pus-: puse with yo."
+  },
+  {
+    "id": "t020",
+    "category": "past",
+    "en": "You came with your family. (one person)",
+    "es": "Tú viniste con tu familia.",
+    "note": "Venir → viniste in the completed past. Tú is the subject; tu means your."
+  },
+  {
+    "id": "t021",
+    "category": "past",
+    "en": "She brought the food.",
+    "es": "Ella trajo la comida.",
+    "note": "Traer has the irregular completed-past form trajo with ella."
+  },
+  {
+    "id": "t022",
+    "category": "past",
+    "en": "I couldn't go yesterday.",
+    "es": "No pude ir ayer.",
+    "note": "Poder → pude. No pude ir describes being unable to go on that occasion."
+  },
+  {
+    "id": "t023",
+    "category": "past",
+    "en": "We had to wait an hour.",
+    "es": "Tuvimos que esperar una hora.",
+    "note": "Tener que expresses obligation. Tuvimos places it in a completed past situation."
+  },
+  {
+    "id": "t024",
+    "category": "past",
+    "en": "I found my phone.",
+    "es": "Encontré mi teléfono.",
+    "note": "Encontrar → encontré in the completed past; it does not use ue in this form."
+  },
+  {
+    "id": "t025",
+    "category": "past",
+    "en": "He lost his wallet.",
+    "es": "Él perdió su cartera.",
+    "note": "Perder → perdió with él. Su refers to his here because of the context."
+  },
+  {
+    "id": "t026",
+    "category": "past",
+    "en": "You paid the bill. (plural)",
+    "es": "Ustedes pagaron la cuenta.",
+    "note": "Pagar → pagaron with ustedes in the completed past."
+  },
+  {
+    "id": "t027",
+    "category": "past",
+    "en": "I forgot your name. (one person's)",
+    "es": "Olvidé tu nombre.",
+    "note": "Olvidar → olvidé. Tu without an accent means your."
+  },
+  {
+    "id": "t028",
+    "category": "past",
+    "en": "We learned something new.",
+    "es": "Aprendimos algo nuevo.",
+    "note": "Aprender → aprendimos in the completed past. Algo nuevo means something new."
+  },
+  {
+    "id": "t029",
+    "category": "past",
+    "en": "She read the whole book.",
+    "es": "Ella leyó todo el libro.",
+    "note": "Leer → leyó with ella. Notice the y in this completed-past form."
+  },
+  {
+    "id": "t030",
+    "category": "past",
+    "en": "I wrote an email.",
+    "es": "Escribí un correo electrónico.",
+    "note": "Regular -ir verbs use -í with yo in the completed past: escribir → escribí."
+  },
+  {
+    "id": "t031",
+    "category": "past",
+    "en": "They opened the door.",
+    "es": "Ellos abrieron la puerta.",
+    "note": "Abrir → abrieron with ellos in the completed past."
+  },
+  {
+    "id": "t032",
+    "category": "past",
+    "en": "I woke up at six today.",
+    "es": "Hoy me desperté a las seis.",
+    "note": "Despertarse → me desperté. The reflexive pronoun stays before the conjugated verb."
+  },
+  {
+    "id": "t033",
+    "category": "past",
+    "en": "It rained a lot yesterday.",
+    "es": "Ayer llovió mucho.",
+    "note": "Llovió describes a completed period of rain. Weather verbs usually have no personal subject."
+  },
+  {
+    "id": "t034",
+    "category": "past",
+    "en": "There was an accident.",
+    "es": "Hubo un accidente.",
+    "note": "Hubo is the completed-past form of impersonal hay. It stays singular, even with multiple events."
+  },
+  {
+    "id": "t035",
+    "category": "past",
+    "en": "The movie ended at ten.",
+    "es": "La película terminó a las diez.",
+    "note": "Terminó marks the movie's ending as a completed event."
+  },
+  {
+    "id": "t036",
+    "category": "past",
+    "en": "I used to live here.",
+    "es": "Antes vivía aquí.",
+    "note": "Habitual/background past: vivía describes a former living situation. Antes means before or formerly."
+  },
+  {
+    "id": "t037",
+    "category": "past",
+    "en": "You used to work on Sundays. (one person)",
+    "es": "Tú trabajabas los domingos.",
+    "note": "The imperfect trabajabas describes a past routine. Los domingos means on Sundays."
+  },
+  {
+    "id": "t038",
+    "category": "past",
+    "en": "She used to walk to school.",
+    "es": "Ella caminaba a la escuela.",
+    "note": "The imperfect caminaba can describe what someone used to do regularly."
+  },
+  {
+    "id": "t039",
+    "category": "past",
+    "en": "We used to eat together every day.",
+    "es": "Comíamos juntos todos los días.",
+    "note": "Comíamos is the imperfect nosotros form. Todos los días makes the repeated habit clear."
+  },
+  {
+    "id": "t040",
+    "category": "past",
+    "en": "They used to play in the park.",
+    "es": "Ellos jugaban en el parque.",
+    "note": "Jugaban describes a past habit. Jugar does not use ue in the imperfect."
+  },
+  {
+    "id": "t041",
+    "category": "past",
+    "en": "You used to come every summer. (plural)",
+    "es": "Ustedes venían cada verano.",
+    "note": "Venían is the imperfect form for ustedes. Cada verano signals a repeated past action."
+  },
+  {
+    "id": "t042",
+    "category": "past",
+    "en": "When I was a child, I had a dog.",
+    "es": "Cuando era niño, tenía un perro.",
+    "note": "Era and tenía describe a past life stage and situation. A female speaker can say cuando era niña."
+  },
+  {
+    "id": "t043",
+    "category": "past",
+    "en": "We used to go to the beach in summer.",
+    "es": "Íbamos a la playa en verano.",
+    "note": "Ir has the irregular imperfect form íbamos with nosotros."
+  },
+  {
+    "id": "t044",
+    "category": "past",
+    "en": "My grandmother always made soup.",
+    "es": "Mi abuela siempre hacía sopa.",
+    "note": "Hacía describes a recurring past action here. Siempre reinforces the habit."
+  },
+  {
+    "id": "t045",
+    "category": "past",
+    "en": "I didn't know that.",
+    "es": "No sabía eso.",
+    "note": "Sabía describes a past state of knowledge. No sabía means I didn't know in this context."
+  },
+  {
+    "id": "t046",
+    "category": "past",
+    "en": "It was cold that day.",
+    "es": "Hacía frío ese día.",
+    "note": "Hacía frío uses the imperfect to describe the weather as background."
+  },
+  {
+    "id": "t047",
+    "category": "past",
+    "en": "There were a lot of people at the party.",
+    "es": "Había mucha gente en la fiesta.",
+    "note": "Había describes what was present. Gente is grammatically singular even though it means people."
+  },
+  {
+    "id": "t048",
+    "category": "past",
+    "en": "I was cooking when you called. (one person)",
+    "es": "Estaba cocinando cuando llamaste.",
+    "note": "Estaba cocinando gives the ongoing background; llamaste marks the completed call during it."
+  },
+  {
+    "id": "t049",
+    "category": "past",
+    "en": "She was sleeping when I arrived.",
+    "es": "Ella estaba durmiendo cuando llegué.",
+    "note": "Dormir → durmiendo after estar. Estaba gives the ongoing background; llegué is the arrival."
+  },
+  {
+    "id": "t050",
+    "category": "past",
+    "en": "We were tired after the trip.",
+    "es": "Estábamos cansados después del viaje.",
+    "note": "Estábamos describes a past state. An all-female group can say estábamos cansadas."
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "c001",
+    "category": "connectors",
+    "en": "I would like coffee and water, please.",
+    "es": "Quisiera café y agua, por favor.",
+    "note": "Y joins items. Quisiera and por favor make a request more courteous.",
+    "focus": {
+      "en": "and",
+      "es": "y"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c002",
+    "category": "connectors",
+    "en": "I want to go, but I can't.",
+    "es": "Quiero ir, pero no puedo.",
+    "note": "Pero introduces a contrast. Puedo is the yo form of poder.",
+    "focus": {
+      "en": "but",
+      "es": "pero"
+    }
+  },
+  {
+    "id": "c003",
+    "category": "connectors",
+    "en": "I'm staying because it's raining.",
+    "es": "Me quedo porque llueve.",
+    "note": "Porque gives a reason; it is written as one word without an accent.",
+    "focus": {
+      "en": "because",
+      "es": "porque"
+    }
+  },
+  {
+    "id": "c004",
+    "category": "connectors",
+    "en": "Although it's late, I'm going.",
+    "es": "Aunque es tarde, voy.",
+    "note": "Aunque means although. Es states a fact here.",
+    "focus": {
+      "en": "Although",
+      "es": "Aunque"
+    }
+  },
+  {
+    "id": "c005",
+    "category": "connectors",
+    "en": "It's late, so I'm leaving.",
+    "es": "Es tarde, así que me voy.",
+    "note": "Así que introduces a result. Irse means to leave.",
+    "focus": {
+      "en": "so",
+      "es": "así que"
+    }
+  },
+  {
+    "id": "c006",
+    "category": "connectors",
+    "en": "First we eat, then we go out.",
+    "es": "Primero comemos, luego salimos.",
+    "note": "Primero and luego put actions in order. Both verbs use nosotros forms.",
+    "focus": {
+      "en": "then",
+      "es": "luego"
+    }
+  },
+  {
+    "id": "c007",
+    "category": "connectors",
+    "en": "Before leaving, I'll call you.",
+    "es": "Antes de salir, te llamo.",
+    "note": "Antes de takes an infinitive. The present te llamo can express a planned action.",
+    "focus": {
+      "en": "Before",
+      "es": "Antes de"
+    }
+  },
+  {
+    "id": "c008",
+    "category": "connectors",
+    "en": "After eating, I rest.",
+    "es": "Después de comer, descanso.",
+    "note": "Después de takes an infinitive: comer stays unconjugated.",
+    "focus": {
+      "en": "After",
+      "es": "Después de"
+    }
+  },
+  {
+    "id": "c009",
+    "category": "connectors",
+    "en": "Please come if you have time.",
+    "es": "Por favor, ven si tienes tiempo.",
+    "note": "Si + present expresses a realistic condition. Por favor softens the invitation.",
+    "focus": {
+      "en": "If",
+      "es": "Si"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c010",
+    "category": "connectors",
+    "en": "Please let me know when you arrive.",
+    "es": "Por favor, avísame cuando llegues.",
+    "note": "Cuando + subjunctive llegues refers to a future arrival. Por favor makes the request polite.",
+    "focus": {
+      "en": "When",
+      "es": "Cuando"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c011",
+    "category": "connectors",
+    "en": "While you cook, I clean.",
+    "es": "Mientras cocinas, yo limpio.",
+    "note": "Mientras connects simultaneous actions. Yo emphasizes who does the cleaning.",
+    "focus": {
+      "en": "While",
+      "es": "Mientras"
+    }
+  },
+  {
+    "id": "c012",
+    "category": "connectors",
+    "en": "I also want to go.",
+    "es": "Yo también quiero ir.",
+    "note": "También adds someone or something to the idea: also or too.",
+    "focus": {
+      "en": "also",
+      "es": "también"
+    }
+  },
+  {
+    "id": "c013",
+    "category": "connectors",
+    "en": "I don't know where it is.",
+    "es": "No sé dónde está.",
+    "note": "Dónde means where in an indirect question: no sé dónde (I don't know where).",
+    "focus": {
+      "en": "where",
+      "es": "dónde"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c014",
+    "category": "connectors",
+    "en": "Where would you like to eat?",
+    "es": "¿Dónde te gustaría comer?",
+    "note": "Dónde asks about a place. Te gustaría means you would like, a courteous way to ask a preference.",
+    "focus": {
+      "en": "Where",
+      "es": "Dónde"
+    },
+    "revision": 3
+  },
+  {
+    "id": "c015",
+    "category": "connectors",
+    "en": "Besides, I need help.",
+    "es": "Además, necesito ayuda.",
+    "note": "Además adds another point. Necesito already identifies the speaker as I.",
+    "focus": {
+      "en": "Besides",
+      "es": "Además"
+    }
+  },
+  {
+    "id": "c016",
+    "category": "connectors",
+    "en": "For example, we can go tomorrow.",
+    "es": "Por ejemplo, podemos ir mañana.",
+    "note": "Por ejemplo introduces an example. Podemos + infinitive means we can do something.",
+    "focus": {
+      "en": "For example",
+      "es": "Por ejemplo"
+    }
+  },
+  {
+    "id": "c017",
+    "category": "connectors",
+    "en": "So, you're not coming?",
+    "es": "O sea, ¿no vienes?",
+    "note": "O sea is a conversational way to clarify what someone means.",
+    "focus": {
+      "en": "So",
+      "es": "O sea"
+    }
+  },
+  {
+    "id": "c018",
+    "category": "connectors",
+    "en": "This is where I live.",
+    "es": "Aquí es donde vivo.",
+    "note": "Donde connects the place with what happens there. It has no accent in this relative clause.",
+    "focus": {
+      "en": "where",
+      "es": "donde"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c019",
+    "category": "connectors",
+    "en": "Anyway, I'm going to try.",
+    "es": "De todos modos, voy a intentarlo.",
+    "note": "De todos modos means anyway. Voy a + infinitive expresses a plan.",
+    "focus": {
+      "en": "Anyway",
+      "es": "De todos modos"
+    }
+  },
+  {
+    "id": "c020",
+    "category": "connectors",
+    "en": "That's why I called you.",
+    "es": "Por eso te llamé.",
+    "note": "Por eso points back to a reason. Llamé is completed past, I called.",
+    "focus": {
+      "en": "That's why",
+      "es": "Por eso"
+    }
+  },
+  {
+    "id": "c021",
+    "category": "connectors",
+    "en": "Since you're here, please come in.",
+    "es": "Ya que estás aquí, pasa, por favor.",
+    "note": "Ya que introduces a reason. Pasa, por favor is a friendly, polite invitation.",
+    "focus": {
+      "en": "Since",
+      "es": "Ya que"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c022",
+    "category": "connectors",
+    "en": "Since it's closed, let's go somewhere else.",
+    "es": "Como está cerrado, vamos a otro lugar.",
+    "note": "Como at the start can mean since or because. Está cerrado describes its state.",
+    "focus": {
+      "en": "Since",
+      "es": "Como"
+    }
+  },
+  {
+    "id": "c023",
+    "category": "connectors",
+    "en": "Would you like tea or coffee?",
+    "es": "¿Te gustaría té o café?",
+    "note": "O offers alternatives. Te gustaría makes a courteous offer to one person.",
+    "focus": {
+      "en": "or",
+      "es": "o"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c024",
+    "category": "connectors",
+    "en": "Please tell me where you're going.",
+    "es": "Por favor, dime adónde vas.",
+    "note": "Adónde asks about a destination. Por favor softens the informal command dime.",
+    "focus": {
+      "en": "where",
+      "es": "adónde"
+    },
+    "revision": 3
+  },
+  {
+    "id": "c025",
+    "category": "connectors",
+    "en": "It's not today, but tomorrow.",
+    "es": "No es hoy, sino mañana.",
+    "note": "Sino replaces a rejected alternative after a negative statement.",
+    "focus": {
+      "en": "but",
+      "es": "sino"
+    }
+  },
+  {
+    "id": "c026",
+    "category": "connectors",
+    "en": "Then we can talk.",
+    "es": "Entonces podemos hablar.",
+    "note": "Entonces connects this idea to the previous one: then or in that case.",
+    "focus": {
+      "en": "Then",
+      "es": "Entonces"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c027",
+    "category": "connectors",
+    "en": "Despite the rain, we went out yesterday.",
+    "es": "A pesar de la lluvia, salimos ayer.",
+    "note": "A pesar de introduces an obstacle. Ayer makes clear that salimos refers to the past.",
+    "focus": {
+      "en": "Despite",
+      "es": "A pesar de"
+    }
+  },
+  {
+    "id": "c028",
+    "category": "connectors",
+    "en": "As soon as I arrive, I'll call you.",
+    "es": "En cuanto llegue, te llamo.",
+    "note": "En cuanto + subjunctive llegue refers to a future arrival.",
+    "focus": {
+      "en": "As soon as",
+      "es": "En cuanto"
+    }
+  },
+  {
+    "id": "c029",
+    "category": "connectors",
+    "en": "I'll stay here until you return.",
+    "es": "Hasta que vuelvas, me quedo aquí.",
+    "note": "Hasta que + subjunctive vuelvas describes a return that is still ahead.",
+    "focus": {
+      "en": "until",
+      "es": "Hasta que"
+    }
+  },
+  {
+    "id": "c030",
+    "category": "connectors",
+    "en": "Since I arrived, I've been feeling better.",
+    "es": "Desde que llegué, estoy mejor.",
+    "note": "Desde que marks a starting point. Llegué is past; estoy describes the current state.",
+    "focus": {
+      "en": "Since",
+      "es": "Desde que"
+    }
+  },
+  {
+    "id": "c031",
+    "category": "connectors",
+    "en": "Every time I go, I learn something.",
+    "es": "Cada vez que voy, aprendo algo.",
+    "note": "Cada vez que introduces a repeated event. Both verbs are present.",
+    "focus": {
+      "en": "Every time",
+      "es": "Cada vez que"
+    }
+  },
+  {
+    "id": "c032",
+    "category": "connectors",
+    "en": "Whenever I can, I walk.",
+    "es": "Siempre que puedo, camino.",
+    "note": "Siempre que + present describes a recurring situation here.",
+    "focus": {
+      "en": "Whenever",
+      "es": "Siempre que"
+    }
+  },
+  {
+    "id": "c033",
+    "category": "connectors",
+    "en": "Just in case, please take some water.",
+    "es": "Por si acaso, lleva agua, por favor.",
+    "note": "Por si acaso means just in case. Por favor makes the suggestion courteous.",
+    "focus": {
+      "en": "Just in case",
+      "es": "Por si acaso"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c034",
+    "category": "connectors",
+    "en": "When do you finish work?",
+    "es": "¿Cuándo terminas de trabajar?",
+    "note": "Cuándo has an accent in a question. Terminar de + infinitive means to finish doing something.",
+    "focus": {
+      "en": "When",
+      "es": "Cuándo"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c035",
+    "category": "connectors",
+    "en": "I'll wait where we met.",
+    "es": "Te espero donde nos conocimos.",
+    "note": "Donde introduces a place. Nos conocimos means we met each other.",
+    "focus": {
+      "en": "where",
+      "es": "donde"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c036",
+    "category": "connectors",
+    "en": "I speak slowly so that you understand.",
+    "es": "Para que entiendas, hablo despacio.",
+    "note": "Para que expresses purpose and takes subjunctive entiendas.",
+    "focus": {
+      "en": "so that",
+      "es": "Para que"
+    }
+  },
+  {
+    "id": "c037",
+    "category": "connectors",
+    "en": "I study in order to learn.",
+    "es": "Estudio para aprender.",
+    "note": "Para + infinitive expresses purpose when the same person performs both actions.",
+    "focus": {
+      "en": "in order to",
+      "es": "para"
+    }
+  },
+  {
+    "id": "c038",
+    "category": "connectors",
+    "en": "I'll go with you if you want.",
+    "es": "Voy contigo si quieres.",
+    "note": "Si can follow the main clause. Contigo means with you, for one informal listener.",
+    "focus": {
+      "en": "if",
+      "es": "si"
+    }
+  },
+  {
+    "id": "c039",
+    "category": "connectors",
+    "en": "When I was a boy, I lived here.",
+    "es": "Cuando era niño, vivía aquí.",
+    "note": "Era and vivía are imperfect forms describing a past stage of life.",
+    "focus": {
+      "en": "When",
+      "es": "Cuando"
+    }
+  },
+  {
+    "id": "c040",
+    "category": "connectors",
+    "en": "In the end, everything went well.",
+    "es": "Al final, todo salió bien.",
+    "note": "Al final introduces the outcome. Salió is completed past, it turned out.",
+    "focus": {
+      "en": "In the end",
+      "es": "Al final"
+    }
+  },
+  {
+    "id": "c041",
+    "category": "connectors",
+    "en": "Meanwhile, please wait here.",
+    "es": "Mientras tanto, espera aquí, por favor.",
+    "note": "Mientras tanto means meanwhile. Por favor makes the instruction polite.",
+    "focus": {
+      "en": "Meanwhile",
+      "es": "Mientras tanto"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c042",
+    "category": "connectors",
+    "en": "We'll talk about that later.",
+    "es": "Después hablamos de eso.",
+    "note": "Después means later here. Present hablamos can express a future arrangement.",
+    "focus": {
+      "en": "later",
+      "es": "Después"
+    }
+  },
+  {
+    "id": "c043",
+    "category": "connectors",
+    "en": "I used to work here before.",
+    "es": "Antes trabajaba aquí.",
+    "note": "Antes means before or previously. Trabajaba describes a past habit.",
+    "focus": {
+      "en": "before",
+      "es": "Antes"
+    }
+  },
+  {
+    "id": "c044",
+    "category": "connectors",
+    "en": "Then, what do we do?",
+    "es": "Entonces, ¿qué hacemos?",
+    "note": "Entonces can introduce the next step or a conclusion.",
+    "focus": {
+      "en": "Then",
+      "es": "Entonces"
+    }
+  },
+  {
+    "id": "c045",
+    "category": "connectors",
+    "en": "Where are you from?",
+    "es": "¿De dónde eres?",
+    "note": "De dónde asks about origin. Eres is the tú form of ser.",
+    "focus": {
+      "en": "Where",
+      "es": "dónde"
+    },
+    "revision": 2
+  },
+  {
+    "id": "c046",
+    "category": "connectors",
+    "en": "In fact, I already knew that.",
+    "es": "De hecho, ya lo sabía.",
+    "note": "De hecho adds a fact. Sabía describes knowledge held in the past.",
+    "focus": {
+      "en": "In fact",
+      "es": "De hecho"
+    }
+  },
+  {
+    "id": "c047",
+    "category": "connectors",
+    "en": "By the way, how are you?",
+    "es": "Por cierto, ¿cómo estás?",
+    "note": "Por cierto introduces a related comment or a change of topic.",
+    "focus": {
+      "en": "By the way",
+      "es": "Por cierto"
+    }
+  },
+  {
+    "id": "c048",
+    "category": "connectors",
+    "en": "Please let me know when you're ready.",
+    "es": "Por favor, avísame cuando estés listo.",
+    "note": "Cuando + subjunctive estés refers to a future state. Use lista when addressing a woman. Por favor is polite.",
+    "focus": {
+      "en": "when",
+      "es": "cuando"
+    },
+    "revision": 3
+  },
+  {
+    "id": "c049",
+    "category": "connectors",
+    "en": "That is, we have to wait.",
+    "es": "Es decir, tenemos que esperar.",
+    "note": "Es decir clarifies an idea. Tener que + infinitive expresses necessity.",
+    "focus": {
+      "en": "That is",
+      "es": "Es decir"
+    }
+  },
+  {
+    "id": "c050",
+    "category": "connectors",
+    "en": "I don't know when he's coming.",
+    "es": "No sé cuándo viene.",
+    "note": "Cuándo keeps its accent in an indirect question. Viene is the él/ella/usted form of venir.",
+    "focus": {
+      "en": "when",
+      "es": "cuándo"
+    },
+    "revision": 2
+  }
+]

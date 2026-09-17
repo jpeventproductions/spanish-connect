@@ -1,0 +1,356 @@
+[
+  {
+    "id": "w001",
+    "category": "patterns",
+    "en": "Could you give me more information, please?",
+    "es": "¿Me da más información, por favor?",
+    "note": "Information → información shows -tion → -ción. Me da... por favor is a courteous request.",
+    "revision": 2
+  },
+  {
+    "id": "w002",
+    "category": "patterns",
+    "en": "I have a reservation.",
+    "es": "Tengo una reservación.",
+    "note": "Reservation → reservación. Reserva is another common word for a booking."
+  },
+  {
+    "id": "w003",
+    "category": "patterns",
+    "en": "Thanks for the invitation.",
+    "es": "Gracias por la invitación.",
+    "note": "Invitation → invitación. These -ción nouns are feminine: la invitación."
+  },
+  {
+    "id": "w004",
+    "category": "patterns",
+    "en": "The situation is difficult.",
+    "es": "La situación es difícil.",
+    "note": "Situation → situación. Keep the written accent on the final syllable."
+  },
+  {
+    "id": "w005",
+    "category": "patterns",
+    "en": "There is a solution.",
+    "es": "Hay una solución.",
+    "note": "Solution → solución. Hay means there is or there are."
+  },
+  {
+    "id": "w006",
+    "category": "patterns",
+    "en": "Could you give me an explanation, please?",
+    "es": "¿Me da una explicación, por favor?",
+    "note": "Explanation → explicación shows -tion → -ción. Da is the usted present form of dar.",
+    "revision": 2
+  },
+  {
+    "id": "w007",
+    "category": "patterns",
+    "en": "This is a good option.",
+    "es": "Esta es una buena opción.",
+    "note": "Option → opción. Buena agrees with feminine opción."
+  },
+  {
+    "id": "w008",
+    "category": "patterns",
+    "en": "We have a good connection.",
+    "es": "Tenemos una buena conexión.",
+    "note": "Connection → conexión is an exception to a simple -tion → -ción swap."
+  },
+  {
+    "id": "w009",
+    "category": "patterns",
+    "en": "Communication is important.",
+    "es": "La comunicación es importante.",
+    "note": "Communication → comunicación. Spanish often uses an article for a general concept."
+  },
+  {
+    "id": "w010",
+    "category": "patterns",
+    "en": "The conversation was interesting.",
+    "es": "La conversación fue interesante.",
+    "note": "Conversation → conversación. Fue presents the conversation as a completed event."
+  },
+  {
+    "id": "w011",
+    "category": "patterns",
+    "en": "I would like your authorization, please.",
+    "es": "Quisiera su autorización, por favor.",
+    "note": "Authorization → autorización shows -tion → -ción. Quisiera and su make the request courteous.",
+    "revision": 2
+  },
+  {
+    "id": "w012",
+    "category": "patterns",
+    "en": "There is a celebration today.",
+    "es": "Hoy hay una celebración.",
+    "note": "Celebration → celebración. Hoy can naturally go at the start of the sentence."
+  },
+  {
+    "id": "w013",
+    "category": "patterns",
+    "en": "It was a difficult decision.",
+    "es": "Fue una decisión difícil.",
+    "note": "Decision → decisión: many -sion nouns have Spanish -sión cognates."
+  },
+  {
+    "id": "w014",
+    "category": "patterns",
+    "en": "There is some confusion.",
+    "es": "Hay algo de confusión.",
+    "note": "Confusion → confusión. Algo de expresses an unspecified amount."
+  },
+  {
+    "id": "w015",
+    "category": "patterns",
+    "en": "I feel a lot of pressure.",
+    "es": "Siento mucha presión.",
+    "note": "Pressure → presión shows that similar Spanish endings do not always come from English -sion."
+  },
+  {
+    "id": "w016",
+    "category": "patterns",
+    "en": "It's just an impression.",
+    "es": "Es solo una impresión.",
+    "note": "Impression → impresión. English -ssion often corresponds to Spanish -sión."
+  },
+  {
+    "id": "w017",
+    "category": "patterns",
+    "en": "I like your version.",
+    "es": "Me gusta tu versión.",
+    "note": "Version → versión. Tu versión is the subject of gusta."
+  },
+  {
+    "id": "w018",
+    "category": "patterns",
+    "en": "That's my conclusion.",
+    "es": "Esa es mi conclusión.",
+    "note": "Conclusion → conclusión. Esa agrees with the feminine noun conclusión."
+  },
+  {
+    "id": "w019",
+    "category": "patterns",
+    "en": "I don't understand that expression.",
+    "es": "No entiendo esa expresión.",
+    "note": "Expression → expresión. English double s becomes a single s here."
+  },
+  {
+    "id": "w020",
+    "category": "patterns",
+    "en": "We watch television at night.",
+    "es": "Vemos televisión por la noche.",
+    "note": "Television → televisión. Vemos is the nosotros form of ver."
+  },
+  {
+    "id": "w021",
+    "category": "patterns",
+    "en": "It's a good opportunity.",
+    "es": "Es una buena oportunidad.",
+    "note": "Opportunity → oportunidad: a useful -ty/-dad cognate pattern."
+  },
+  {
+    "id": "w022",
+    "category": "patterns",
+    "en": "It's my responsibility.",
+    "es": "Es mi responsabilidad.",
+    "note": "Responsibility → responsabilidad. Many -ity words correspond to -idad words."
+  },
+  {
+    "id": "w023",
+    "category": "patterns",
+    "en": "Quality is important.",
+    "es": "La calidad es importante.",
+    "note": "Quality → calidad. The spelling of the stem changes; endings alone are not enough."
+  },
+  {
+    "id": "w024",
+    "category": "patterns",
+    "en": "We need more activity.",
+    "es": "Necesitamos más actividad.",
+    "note": "Activity → actividad. The -ity/-idad pattern appears in many common nouns."
+  },
+  {
+    "id": "w025",
+    "category": "patterns",
+    "en": "I live near the university.",
+    "es": "Vivo cerca de la universidad.",
+    "note": "University → universidad. These -dad nouns are usually feminine."
+  },
+  {
+    "id": "w026",
+    "category": "patterns",
+    "en": "That's the reality.",
+    "es": "Esa es la realidad.",
+    "note": "Reality → realidad. Esa refers to the feminine noun realidad."
+  },
+  {
+    "id": "w027",
+    "category": "patterns",
+    "en": "There is a possibility.",
+    "es": "Hay una posibilidad.",
+    "note": "Possibility → posibilidad. English -bility often corresponds to -bilidad."
+  },
+  {
+    "id": "w028",
+    "category": "patterns",
+    "en": "I appreciate your honesty.",
+    "es": "Aprecio tu honestidad.",
+    "note": "Honesty → honestidad. This noun follows a useful pattern rather than a letter-for-letter swap."
+  },
+  {
+    "id": "w029",
+    "category": "patterns",
+    "en": "It's a basic question.",
+    "es": "Es una pregunta básica.",
+    "note": "Basic → básico/básica. The adjective agrees with feminine pregunta."
+  },
+  {
+    "id": "w030",
+    "category": "patterns",
+    "en": "It's a public place.",
+    "es": "Es un lugar público.",
+    "note": "Public → público. Many -ic cognates end in -ico and carry a written accent."
+  },
+  {
+    "id": "w031",
+    "category": "patterns",
+    "en": "That sounds fantastic.",
+    "es": "Eso suena fantástico.",
+    "note": "Fantastic → fantástico. Suena is the él/ella form of sonar."
+  },
+  {
+    "id": "w032",
+    "category": "patterns",
+    "en": "It's a historic moment.",
+    "es": "Es un momento histórico.",
+    "note": "Historic → histórico. The adjective normally follows momento here."
+  },
+  {
+    "id": "w033",
+    "category": "patterns",
+    "en": "It seems logical to me.",
+    "es": "Me parece lógico.",
+    "note": "Logic/logical → lógico. A Spanish -ico adjective can match English -ic or -ical."
+  },
+  {
+    "id": "w034",
+    "category": "patterns",
+    "en": "It's a typical day.",
+    "es": "Es un día típico.",
+    "note": "Typical → típico. Día is masculine despite ending in -a."
+  },
+  {
+    "id": "w035",
+    "category": "patterns",
+    "en": "It's an automatic door.",
+    "es": "Es una puerta automática.",
+    "note": "Automatic → automático/automática. Puerta requires the feminine form."
+  },
+  {
+    "id": "w036",
+    "category": "patterns",
+    "en": "We need technical help.",
+    "es": "Necesitamos ayuda técnica.",
+    "note": "Technical → técnico/técnica. Ayuda is feminine, so use técnica."
+  },
+  {
+    "id": "w037",
+    "category": "patterns",
+    "en": "The food is delicious.",
+    "es": "La comida está deliciosa.",
+    "note": "Delicious → delicioso/deliciosa. Comida requires the feminine ending."
+  },
+  {
+    "id": "w038",
+    "category": "patterns",
+    "en": "It's a famous restaurant.",
+    "es": "Es un restaurante famoso.",
+    "note": "Famous → famoso. Some English -ous adjectives correspond to Spanish -oso."
+  },
+  {
+    "id": "w039",
+    "category": "patterns",
+    "en": "He is very generous.",
+    "es": "Él es muy generoso.",
+    "note": "Generous → generoso. Use generosa when describing a woman."
+  },
+  {
+    "id": "w040",
+    "category": "patterns",
+    "en": "She is nervous today.",
+    "es": "Ella está nerviosa hoy.",
+    "note": "Nervous → nervioso/nerviosa. Está describes how she feels today."
+  },
+  {
+    "id": "w041",
+    "category": "patterns",
+    "en": "It's a curious detail.",
+    "es": "Es un detalle curioso.",
+    "note": "Curious → curioso. Here curioso means unusual or interesting."
+  },
+  {
+    "id": "w042",
+    "category": "patterns",
+    "en": "It's a mysterious place.",
+    "es": "Es un lugar misterioso.",
+    "note": "Mysterious → misterioso. The stem changes spelling as well as the ending."
+  },
+  {
+    "id": "w043",
+    "category": "patterns",
+    "en": "Could you speak clearly, please?",
+    "es": "¿Podría hablar claramente, por favor?",
+    "note": "Clearly → claramente shows -ly → -mente. Podría makes a polite request.",
+    "revision": 2
+  },
+  {
+    "id": "w044",
+    "category": "patterns",
+    "en": "Normally, I eat at home.",
+    "es": "Normalmente, como en casa.",
+    "note": "Normally → normalmente. Normal has the same form for masculine and feminine."
+  },
+  {
+    "id": "w045",
+    "category": "patterns",
+    "en": "I understand perfectly.",
+    "es": "Entiendo perfectamente.",
+    "note": "Perfectly → perfectamente. Perfecta + mente makes an adverb."
+  },
+  {
+    "id": "w046",
+    "category": "patterns",
+    "en": "You can do it easily.",
+    "es": "Puedes hacerlo fácilmente.",
+    "note": "Easily → fácilmente. Fácil keeps its written accent when -mente is added."
+  },
+  {
+    "id": "w047",
+    "category": "patterns",
+    "en": "Finally, we're here.",
+    "es": "Finalmente, estamos aquí.",
+    "note": "Finally → finalmente. Final + mente forms the adverb."
+  },
+  {
+    "id": "w048",
+    "category": "patterns",
+    "en": "I simply don't know.",
+    "es": "Simplemente no sé.",
+    "note": "Simply → simplemente. Sé is the yo form of saber and has a written accent."
+  },
+  {
+    "id": "w049",
+    "category": "patterns",
+    "en": "I really want to learn.",
+    "es": "Realmente quiero aprender.",
+    "note": "Really → realmente. English -ly often corresponds to -mente, but not in every word."
+  },
+  {
+    "id": "w050",
+    "category": "patterns",
+    "en": "The price changes constantly.",
+    "es": "El precio cambia constantemente.",
+    "note": "Constantly → constantemente. Constante + mente forms the adverb."
+  }
+]

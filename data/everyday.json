@@ -1,0 +1,372 @@
+[
+  {
+    "id": "e001",
+    "category": "everyday",
+    "en": "Good morning.",
+    "es": "Buenos días.",
+    "note": "This greeting uses the plural días, even when greeting one person."
+  },
+  {
+    "id": "e002",
+    "category": "everyday",
+    "en": "Good afternoon.",
+    "es": "Buenas tardes.",
+    "note": "Buenas agrees with the feminine plural noun tardes."
+  },
+  {
+    "id": "e003",
+    "category": "everyday",
+    "en": "Good evening.",
+    "es": "Buenas noches.",
+    "note": "Buenas noches can also mean ‘good night’ when saying goodbye."
+  },
+  {
+    "id": "e004",
+    "category": "everyday",
+    "en": "Nice to meet you.",
+    "es": "Mucho gusto.",
+    "note": "A common short greeting when you meet someone for the first time."
+  },
+  {
+    "id": "e005",
+    "category": "everyday",
+    "en": "See you tomorrow.",
+    "es": "Hasta mañana.",
+    "note": "Hasta means ‘until’; mañana means ‘tomorrow’ here."
+  },
+  {
+    "id": "e006",
+    "category": "everyday",
+    "en": "How are you? (formal)",
+    "es": "¿Cómo está usted?",
+    "note": "Usted is a respectful form of singular you. Está agrees with usted.",
+    "revision": 2
+  },
+  {
+    "id": "e007",
+    "category": "everyday",
+    "en": "I'm doing well.",
+    "es": "Estoy bien.",
+    "note": "Estoy means ‘I am’; the subject yo is usually unnecessary."
+  },
+  {
+    "id": "e008",
+    "category": "everyday",
+    "en": "May I ask your name?",
+    "es": "¿Me permite preguntarle su nombre?",
+    "note": "Me permite + infinitive is a courteous way to ask permission; le and su refer to usted here.",
+    "revision": 2
+  },
+  {
+    "id": "e009",
+    "category": "everyday",
+    "en": "My name is Ana.",
+    "es": "Me llamo Ana.",
+    "note": "Me llamo literally means ‘I call myself.’"
+  },
+  {
+    "id": "e010",
+    "category": "everyday",
+    "en": "May I ask where you are from?",
+    "es": "¿Me permite preguntarle de dónde es?",
+    "note": "De dónde asks about origin. Me permite preguntarle makes the question respectful.",
+    "revision": 2
+  },
+  {
+    "id": "e011",
+    "category": "everyday",
+    "en": "I'm from the United States.",
+    "es": "Soy de Estados Unidos.",
+    "note": "Use ser + de to say where someone is from."
+  },
+  {
+    "id": "e012",
+    "category": "everyday",
+    "en": "Could you speak slowly, please?",
+    "es": "¿Podría hablar despacio, por favor?",
+    "note": "Podría + infinitive makes a polite request. Here podría addresses usted.",
+    "revision": 2
+  },
+  {
+    "id": "e013",
+    "category": "everyday",
+    "en": "Could you repeat that, please?",
+    "es": "¿Podría repetir eso, por favor?",
+    "note": "Podría and por favor make this a courteous request to repeat something.",
+    "revision": 2
+  },
+  {
+    "id": "e014",
+    "category": "everyday",
+    "en": "I don't understand.",
+    "es": "No entiendo.",
+    "note": "Put no before the verb to make a negative statement."
+  },
+  {
+    "id": "e015",
+    "category": "everyday",
+    "en": "What does this word mean?",
+    "es": "¿Qué significa esta palabra?",
+    "note": "Esta agrees with the feminine noun palabra; qué asks ‘what.’"
+  },
+  {
+    "id": "e016",
+    "category": "everyday",
+    "en": "How do you say this in Spanish?",
+    "es": "¿Cómo se dice esto en español?",
+    "note": "Se dice means ‘one says’ or ‘it is said’; esto means ‘this.’"
+  },
+  {
+    "id": "e017",
+    "category": "everyday",
+    "en": "I speak a little Spanish.",
+    "es": "Hablo un poco de español.",
+    "note": "Hablo is the yo form of hablar; un poco de means ‘a little.’"
+  },
+  {
+    "id": "e018",
+    "category": "everyday",
+    "en": "I have a question.",
+    "es": "Tengo una pregunta.",
+    "note": "Tengo is the irregular yo form of tener, ‘to have.’"
+  },
+  {
+    "id": "e019",
+    "category": "everyday",
+    "en": "Excuse me, may I pass?",
+    "es": "Con permiso, ¿puedo pasar?",
+    "note": "Con permiso politely asks to pass; puedo + infinitive means ‘I can.’"
+  },
+  {
+    "id": "e020",
+    "category": "everyday",
+    "en": "Thank you very much.",
+    "es": "Muchas gracias.",
+    "note": "Muchas agrees with the feminine plural noun gracias."
+  },
+  {
+    "id": "e021",
+    "category": "everyday",
+    "en": "You're welcome.",
+    "es": "De nada.",
+    "note": "A standard response to gracias; literally ‘for nothing.’"
+  },
+  {
+    "id": "e022",
+    "category": "everyday",
+    "en": "I'm sorry.",
+    "es": "Lo siento.",
+    "note": "Lo refers to what you are sorry about; siento comes from sentir."
+  },
+  {
+    "id": "e023",
+    "category": "everyday",
+    "en": "Could you help me, please?",
+    "es": "¿Podría ayudarme, por favor?",
+    "note": "Podría + infinitive makes a polite request to usted. Ayudarme means to help me.",
+    "revision": 2
+  },
+  {
+    "id": "e024",
+    "category": "everyday",
+    "en": "One moment, please.",
+    "es": "Un momento, por favor.",
+    "note": "Un is masculine because momento is a masculine noun."
+  },
+  {
+    "id": "e025",
+    "category": "everyday",
+    "en": "Could I have some water, please?",
+    "es": "¿Me da un poco de agua, por favor?",
+    "note": "Me da... por favor is a common courteous request. Da is the usted form of dar.",
+    "revision": 2
+  },
+  {
+    "id": "e026",
+    "category": "everyday",
+    "en": "I'm hungry.",
+    "es": "Tengo hambre.",
+    "note": "Spanish uses tener here: literally ‘I have hunger.’"
+  },
+  {
+    "id": "e027",
+    "category": "everyday",
+    "en": "I'm thirsty.",
+    "es": "Tengo sed.",
+    "note": "Spanish uses tener here: literally ‘I have thirst.’"
+  },
+  {
+    "id": "e028",
+    "category": "everyday",
+    "en": "Excuse me, where is the bathroom?",
+    "es": "Disculpe, ¿dónde está el baño?",
+    "note": "Disculpe politely gets attention. Dónde asks where; está indicates location.",
+    "revision": 2
+  },
+  {
+    "id": "e029",
+    "category": "everyday",
+    "en": "Excuse me, how much does this cost?",
+    "es": "Disculpe, ¿cuánto cuesta esto?",
+    "note": "Disculpe politely gets attention. Cuánto asks about the price.",
+    "revision": 2
+  },
+  {
+    "id": "e030",
+    "category": "everyday",
+    "en": "I'd like the menu, please.",
+    "es": "Quisiera el menú, por favor.",
+    "note": "Quisiera is a common polite way to say ‘I would like.’"
+  },
+  {
+    "id": "e031",
+    "category": "everyday",
+    "en": "The check, please.",
+    "es": "La cuenta, por favor.",
+    "note": "La cuenta is the bill or check at a restaurant."
+  },
+  {
+    "id": "e032",
+    "category": "everyday",
+    "en": "May I pay by card, please?",
+    "es": "¿Puedo pagar con tarjeta, por favor?",
+    "note": "Puedo + infinitive asks permission. Con tarjeta means by card.",
+    "revision": 2
+  },
+  {
+    "id": "e033",
+    "category": "everyday",
+    "en": "I'm just looking, thank you.",
+    "es": "Solo estoy mirando, gracias.",
+    "note": "Estoy + gerund describes what is happening now. Gracias keeps the response courteous.",
+    "revision": 2
+  },
+  {
+    "id": "e034",
+    "category": "everyday",
+    "en": "Do you have a smaller size, please?",
+    "es": "¿Tiene una talla más pequeña, por favor?",
+    "note": "Tiene addresses usted. Más pequeña means smaller.",
+    "revision": 2
+  },
+  {
+    "id": "e035",
+    "category": "everyday",
+    "en": "I'd like to try on this shirt, please.",
+    "es": "Quisiera probarme esta camisa, por favor.",
+    "note": "Quisiera is a polite request. Probarse means to try on clothing.",
+    "revision": 2
+  },
+  {
+    "id": "e036",
+    "category": "everyday",
+    "en": "Excuse me, where is the bus stop?",
+    "es": "Disculpe, ¿dónde está la parada del autobús?",
+    "note": "Disculpe politely gets attention. Del is the contraction of de + el.",
+    "revision": 2
+  },
+  {
+    "id": "e037",
+    "category": "everyday",
+    "en": "A ticket downtown, please.",
+    "es": "Un boleto al centro, por favor.",
+    "note": "Al combines a + el; al centro means ‘to the city center.’"
+  },
+  {
+    "id": "e038",
+    "category": "everyday",
+    "en": "Does this bus go to the airport?",
+    "es": "¿Este autobús va al aeropuerto?",
+    "note": "Va is a form of ir, ‘to go’; este agrees with autobús."
+  },
+  {
+    "id": "e039",
+    "category": "everyday",
+    "en": "Could you tell me how to get to the hotel?",
+    "es": "¿Podría decirme cómo llegar al hotel?",
+    "note": "Podría decirme is a courteous request. Cómo llegar means how to get there.",
+    "revision": 2
+  },
+  {
+    "id": "e040",
+    "category": "everyday",
+    "en": "I'm lost.",
+    "es": "Estoy perdido.",
+    "note": "A male speaker says perdido; a female speaker says perdida."
+  },
+  {
+    "id": "e041",
+    "category": "everyday",
+    "en": "Please turn right.",
+    "es": "Gire a la derecha, por favor.",
+    "note": "Gire is a formal usted command. A la derecha means to the right.",
+    "revision": 2
+  },
+  {
+    "id": "e042",
+    "category": "everyday",
+    "en": "Please keep going straight.",
+    "es": "Siga derecho, por favor.",
+    "note": "Siga is the formal usted command from seguir. Derecho means straight ahead here.",
+    "revision": 2
+  },
+  {
+    "id": "e043",
+    "category": "everyday",
+    "en": "I have a reservation.",
+    "es": "Tengo una reservación.",
+    "note": "Reservación is common in Latin America; reserva is also widely used."
+  },
+  {
+    "id": "e044",
+    "category": "everyday",
+    "en": "Is there Wi-Fi here?",
+    "es": "¿Hay wifi aquí?",
+    "note": "Hay asks whether something exists; aquí means ‘here.’"
+  },
+  {
+    "id": "e045",
+    "category": "everyday",
+    "en": "Excuse me, what time is it?",
+    "es": "Disculpe, ¿qué hora es?",
+    "note": "Disculpe adds politeness. Qué hora es asks for the current time.",
+    "revision": 2
+  },
+  {
+    "id": "e046",
+    "category": "everyday",
+    "en": "What time do you open?",
+    "es": "¿A qué hora abren?",
+    "note": "A qué hora asks ‘at what time’; abren addresses a business or its staff."
+  },
+  {
+    "id": "e047",
+    "category": "everyday",
+    "en": "I can't find my phone.",
+    "es": "No encuentro mi teléfono.",
+    "note": "No encuentro naturally means ‘I can't find’; mi means ‘my.’"
+  },
+  {
+    "id": "e048",
+    "category": "everyday",
+    "en": "Please call a doctor.",
+    "es": "Por favor, llame a un médico.",
+    "note": "Llame is the formal usted command from llamar. The a comes before a person.",
+    "revision": 2
+  },
+  {
+    "id": "e049",
+    "category": "everyday",
+    "en": "Everything is fine.",
+    "es": "Todo está bien.",
+    "note": "Todo means ‘everything’ and takes a singular verb here."
+  },
+  {
+    "id": "e050",
+    "category": "everyday",
+    "en": "Have a good day. (formal)",
+    "es": "Que tenga un buen día.",
+    "note": "Que tenga is a courteous wish addressed to usted.",
+    "revision": 2
+  }
+]
